@@ -1,0 +1,29 @@
+-------------------------------------------------------------------------------
+Test set: log.Log5Test
+-------------------------------------------------------------------------------
+Tests run: 25, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.056 s - in log.Log5Test
+tableValuesStubsTest{double, double, double}[1]  Time elapsed: 0 s
+tableValuesStubsTest{double, double, double}[2]  Time elapsed: 0 s
+tableValuesStubsTest{double, double, double}[3]  Time elapsed: 0 s
+tableValuesStubsTest{double, double, double}[4]  Time elapsed: 0.015 s
+tableValuesStubsTest{double, double, double}[5]  Time elapsed: 0 s
+tableValuesStubsTest{double, double, double}[6]  Time elapsed: 0 s
+tableValuesStubsTest{double, double, double}[7]  Time elapsed: 0 s
+tableValuesStubsTest{double, double, double}[8]  Time elapsed: 0 s
+tableValuesStubsTest{double, double, double}[9]  Time elapsed: 0 s
+tableValuesStubsTest{double, double, double}[10]  Time elapsed: 0 s
+tableValuesStubsTest{double, double, double}[11]  Time elapsed: 0 s
+tableValuesStubsTest{double, double, double}[12]  Time elapsed: 0 s
+tableValuesStubsTest{double, double, double}[13]  Time elapsed: 0.016 s
+tableValuesStubsTest{double, double, double}[14]  Time elapsed: 0 s
+tableValuesStubsTest{double, double, double}[15]  Time elapsed: 0 s
+tableValuesStubsTest{double, double, double}[16]  Time elapsed: 0 s
+tableValuesStubsTest{double, double, double}[17]  Time elapsed: 0 s
+tableValuesStubsTest{double, double, double}[18]  Time elapsed: 0 s
+tableValuesStubsTest{double, double, double}[19]  Time elapsed: 0 s
+tableValuesStubsTest{double, double, double}[20]  Time elapsed: 0.003 s
+tableValuesStubsTest{double, double, double}[21]  Time elapsed: 0 s
+positiveInfinityStubsTest  Time elapsed: 0.001 s
+nanStubsTest  Time elapsed: 0.002 s
+negativeInfinityStubsTest  Time elapsed: 0.001 s
+negativeValueStubsTest  Time elapsed: 0.001 s
